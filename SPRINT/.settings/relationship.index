@@ -1,16 +1,1 @@
-[ {
-  "baseItem" : {
-    "id" : "_mD3CcP-fEeyC1uxpl9az9g",
-    "version" : "0.1",
-    "type" : "job"
-  },
-  "relatedItems" : [ {
-    "id" : "SPRINT:_CQ7DMP-iEeyC1uxpl9az9g",
-    "version" : "Latest",
-    "type" : "job"
-  }, {
-    "id" : "SPRINT:_qX2VQP-hEeyC1uxpl9az9g",
-    "version" : "Latest",
-    "type" : "job"
-  } ]
-} ]
+[ ]

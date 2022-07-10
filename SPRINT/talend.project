@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_EQ80gf-SEeyC1uxpl9az9g" label="Sprint" language="java" technicalLabel="SPRINT" author="_EQ80gv-SEeyC1uxpl9az9g" productVersion="Talend Cloud Data Management Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/681998/sprint2.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_EQ80gf-SEeyC1uxpl9az9g" label="Sprint" language="java" technicalLabel="SPRINT" author="_EQ80gv-SEeyC1uxpl9az9g" productVersion="Talend Cloud Data Management Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/681998/sprint2.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_ES0cwP-SEeyC1uxpl9az9g" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_EQ80gv-SEeyC1uxpl9az9g" login="mrunalikatwate6898@trial40590.us.talend.com" firstName="Mrunali" lastName="Katwate" type="DQ"/>
